@@ -7,5 +7,4 @@ paragraph.innerHTML = deuses
 button.addEventListener('click', () => {
     deuses.push('Loki', 'Odin', 'Frey')
     paragraph.innerHTML = deuses
-
 })
